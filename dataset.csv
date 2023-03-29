@@ -1,0 +1,201 @@
+origen,destino,longitud de interaccion
+Portal Tunal,Portal Suba,0
+Parque,Portal Suba,1293
+Calle 40 Sur,Portal Suba,3454
+Olaya,Portal Suba,4918
+Tercer Milenio,Portal Suba,8415
+Jimenez,Portal Suba,9046
+Calle 19,Portal Suba,9735
+Calle 22,Portal Suba,10154
+Calle 45,Portal Suba,12490
+Marly,Portal Suba,13242
+Calle 76,Portal Suba,16069
+Escuela Militar,Portal Suba,17900
+Rionegro,Portal Suba,19209
+Puentelargo,Portal Suba,20895
+Humedal Cordoba,Portal Suba,22443
+Niza Calle 127,Portal Suba,23041
+Gratamira,Portal Suba,24738
+Portal Suba,Portal Suba,28458
+Portal Suba,Portal Tunal,0
+Gratamira,Portal Tunal,3402
+Niza Calle 127,Portal Tunal,5105
+Humedal Cordoba,Portal Tunal,5702
+Puentelargo,Portal Tunal,7256
+Rionegro,Portal Tunal,8923
+Escuela Militar,Portal Tunal,10086
+Calle 76,Portal Tunal,11827
+Marly,Portal Tunal,14803
+Calle 45,Portal Tunal,15482
+Calle 22,Portal Tunal,17824
+Calle 19,Portal Tunal,18244
+Jimenez,Portal Tunal,19009
+Tercer Milenio,Portal Tunal,19559
+Olaya,Portal Tunal,23035
+Calle 40 Sur,Portal Tunal,24519
+Parque,Portal Tunal,26685
+Portal Tunal,Portal Tunal,27767
+Portal Tunal,Portal Suba,0
+Parque,Portal Suba,1293
+Calle 40 Sur,Portal Suba,3454
+Olaya,Portal Suba,4918
+Tercer Milenio,Portal Suba,8415
+Jimenez,Portal Suba,9046
+Calle 19,Portal Suba,9735
+Calle 22,Portal Suba,10154
+Calle 45,Portal Suba,12490
+Marly,Portal Suba,13242
+Calle 76,Portal Suba,16069
+Escuela Militar,Portal Suba,17900
+Rionegro,Portal Suba,19209
+Puentelargo,Portal Suba,20895
+Humedal Cordoba,Portal Suba,22443
+Niza Calle 127,Portal Suba,23041
+Gratamira,Portal Suba,24738
+Portal Suba,Portal Suba,28458
+Portal Suba,Portal Tunal,0
+Gratamira,Portal Tunal,3402
+Niza Calle 127,Portal Tunal,5105
+Humedal Cordoba,Portal Tunal,5702
+Puentelargo,Portal Tunal,7256
+Rionegro,Portal Tunal,8923
+Escuela Militar,Portal Tunal,10086
+Calle 76,Portal Tunal,11827
+Marly,Portal Tunal,14803
+Calle 45,Portal Tunal,15482
+Calle 45,Portal Tunal,1331
+Calle 22,Portal Tunal,1312
+Calle 19,Portal Tunal,1300
+Jimenez,Portal Tunal,1279
+Tercer Milenio,Portal Tunal,1407
+Olaya,Portal Tunal,1799
+Calle 40 Sur,Portal Tunal,1780
+Parque,Portal Tunal,1803
+Portal Tunal,Portal Tunal,1808
+Portal Sur,Flores,2015
+Perdomo,Flores,1753
+Madelena,Flores,1741
+Venecia,Flores,1769
+Alqueria,Flores,1721
+General Santander,Flores,1733
+NQS Calle 30 Sur,Flores,1745
+Santa Isabel,Flores,1765
+Calle 76,Flores,320
+Flores,Flores,1376
+Flores,Portal Sur,1376
+Calle 76,Portal Sur,1367
+Santa Isabel,Portal Sur,1766
+NQS Calle 30 Sur,Portal Sur,1747
+General Santander,Portal Sur,1737
+Alqueria,Portal Sur,1722
+Venecia,Portal Sur,1770
+Madelena,Portal Sur,1743
+Perdomo,Portal Sur,1754
+Portal Sur,Portal Sur,2015
+Toberin,Calle 72,1250
+Calle 146,Calle 72,1204
+Calle 142,Calle 72,1199
+Calle 127,Calle 72,1191
+Calle 76,Calle 72,320
+Calle 72,Calle 72,1353
+Portal 80,Portal Norte,13225
+Carrera 90,Portal Norte,1503
+Avenida Cali,Portal Norte,1477
+Granja - Carrera 77,Portal Norte,1496
+Avenida 68,Portal Norte,13416
+Carrera 53,Portal Norte,1489
+Carrera 47,Portal Norte,1485
+Calle 85,Portal Norte,1163
+Virrey,Portal Norte,2040
+Calle 100,Portal Norte,1177
+Calle 106,Portal Norte,1185
+Pepe Sierra,Portal Norte,1232
+Alcala,Portal Norte,1151
+Calle 146,Portal Norte,12906
+Toberin,Portal Norte,1251
+Portal Norte,Portal Norte,1235
+Portal Norte,Portal 80,1235
+Toberin,Portal 80,12937
+Calle 146,Portal 80,12907
+Alcala,Portal 80,1141
+Pepe Sierra,Portal 80,1228
+Calle 106,Portal 80,1181
+Calle 100,Portal 80,1169
+Virrey,Portal 80,1254
+Calle 85,Portal 80,1157
+Carrera 47,Portal 80,1483
+Carrera 53,Portal 80,1487
+Avenida 68,Portal 80,13415
+Granja - Carrera 77,Portal 80,1494
+Avenida  Cali,Portal 80,1475
+Carrera 90,Portal 80,1501
+Portal 80,Portal 80,13225
+Portal Sur,Portal Norte,2012
+Perdomo,Portal Norte,1752
+General Santander,Portal Norte,1735
+Comuneros,Portal Norte,1725
+Ricaurte,Portal Norte,1595
+Avenida El Dorado,Portal Norte,1544
+Universidad Nacional,Portal Norte,2026
+Simon Bolivar,Portal Norte,1604
+Calle 75,Portal Norte,2017
+Castellana,Portal Norte,1564
+Calle 100,Portal Norte,1175
+Calle 127,Portal Norte,1193
+Prado,Portal Norte,1248
+Calle 142,Portal Norte,1201
+Toberin,Portal Norte,12934
+Portal Norte,Portal Norte,1238
+General Santander,Portal Norte,1739
+General Santander,Portal Norte,1735
+Comuneros,Portal Norte,1725
+Ricaurte,Portal Norte,1595
+Avenida El Dorado,Portal Norte,1544
+Universidad Nacional,Portal Norte,2026
+Simon Bolivar,Portal Norte,1604
+Calle 75,Portal Norte,2017
+Castellana,Portal Norte,1564
+Calle 100,Portal Norte,1175
+Calle 127,Portal Norte,1193
+Prado,Portal Norte,1248
+Calle 142,Portal Norte,1201
+Toberin,Portal Norte,12934
+Portal Norte,Portal Norte,1238
+Portal Norte,General Santander,1238
+Toberin,General Santander,12936
+Calle 142,General Santander,1197
+Prado,General Santander,1242
+Calle 127,General Santander,1189
+Calle 100,General Santander,1173
+Castellana,General Santander,1566
+Calle 75,General Santander,2032
+Simon Bolivar,General Santander,1608
+Universidad Nacional,General Santander,1615
+Avenida El Dorado,General Santander,1546
+Ricaurte,General Santander,1599
+Comuneros,General Santander,1729
+General Santander,General Santander,1739
+Portal Norte,Portal Sur,1238
+Toberin,Portal Sur,12936
+Calle 142,Portal Sur,1197
+Prado,Portal Sur,1242
+Calle 127,Portal Sur,1189
+Calle 100,Portal Sur,1173
+Castellana,Portal Sur,1566
+Calle 75,Portal Sur,2032
+Simon Bolivar,Portal Sur,1608
+Universidad Nacional,Portal Sur,1615
+Avenida El Dorado,Portal Sur,1546
+Ricaurte,Portal Sur,1599
+Comuneros,Portal Sur,1729
+General Santander,Portal Sur,1739
+Perdomo,Portal Sur,1755
+Portal Sur,Portal Sur,2012
+Portal Tunal,Portal Norte,13459
+Biblioteca,Portal Norte,1775
+Quiroga,Portal Norte,1812
+Restrepo,Portal Norte,1817
+Hortua,Portal Norte,1793
+Tercer Milenio,Portal Norte,1401
+Calle 22,Portal Norte,1307
+Avenida 39,Portal Norte,1266
